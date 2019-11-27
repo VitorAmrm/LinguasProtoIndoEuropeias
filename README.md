@@ -12,7 +12,7 @@ Vamos utilizar a árvore de línguas derivadas da PIE para criar um BDD PROLOG, 
 •	É_Irmã (X,Y)   (Permite verificar se uma linguagen é irmã de outra).
 
 	Defina a estrutura de predicados que melhor se adeque à representação deste conhecimento.
-	Inclua ouros predicados, que achar interessantes.
+	Inclua outros predicados, que achar interessantes.
 
 
 ![](http://2.bp.blogspot.com/-WXBFUJGetrk/U3uUSgCCdeI/AAAAAAAA2Uo/PQl0Fd9N-nw/s1600/indoeuropes.jpg)
