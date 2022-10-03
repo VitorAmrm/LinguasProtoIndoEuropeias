@@ -11,8 +11,9 @@ Vamos utilizar a árvore de línguas derivadas da PIE para criar um BDD PROLOG, 
 •	É_Antecedente (X,Y)   (Permite verificar se uma linguagen é decendente de outra).
 •	É_Irmã (X,Y)   (Permite verificar se uma linguagen é irmã de outra).
 
-	Defina a estrutura de predicados que melhor se adeque à representação deste conhecimento.
-	Inclua outros predicados, que achar interessantes.
+*	Defina a estrutura de predicados que melhor se adeque à representação deste conhecimento.
+*	Inclua outros predicados, que achar interessantes.
 
 
 ![](http://2.bp.blogspot.com/-WXBFUJGetrk/U3uUSgCCdeI/AAAAAAAA2Uo/PQl0Fd9N-nw/s1600/indoeuropes.jpg)
+
